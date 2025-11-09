@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-matplotlib
-numpy
-=======
-gymnasium
-numpy
-matplotlib
-pandas
->>>>>>> 05fc3fa7a081d2dd76d14c51f508adee494e2e87
